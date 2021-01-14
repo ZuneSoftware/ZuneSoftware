@@ -6,7 +6,7 @@
 
 - 👯 We're looking to collaborate on **Discord**
 
-- 💬 Ask Us **if you have questions about our work!**
+- 💬 Ask Us **if you have any question about our work!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
