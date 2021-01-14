@@ -8,7 +8,7 @@
 
 - 💬 Ask Us **if you have any question about our work!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://discord.gg/wcbeJyRfXD" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="wcbeJyRfXD" height="30" width="40" /></a>
 </p>
