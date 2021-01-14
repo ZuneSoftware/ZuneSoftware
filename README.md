@@ -2,11 +2,11 @@
 
 <h3 align="left">We are a passionate Discord developer team from Poland</h3>
 
-- 🔭 I’m currently working on **something cool!**
+- 🔭 We're currently working on **something cool!**
 
-- 👯 I’m looking to collaborate on **Discord**
+- 👯 We're looking to collaborate on **Discord**
 
-- 💬 Ask me **if you have questions about our work!**
+- 💬 Ask Us **if you have questions about our work!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
